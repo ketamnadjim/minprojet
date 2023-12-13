@@ -1,0 +1,800 @@
+sku,total_sales,post_date,post_name,post_type,pays
+,,,,,
+15075,3,2018-02-14 15:39:43,pares-balta-penedes-indigena-2017,product,FR
+16209,6,2018-02-14 17:15:31,maurel-cabardes-tradition-2017,product,FR
+13895,0,2019-03-19 10:41:50,chateau-saransot-dupre-bordeaux-blanc-2016,product,FR
+12857,0,2018-04-12 17:56:13,chateau-de-puligny-montrachet-1cru-champ-canet-2014,product,FR
+14106,0,2019-06-08 09:54:21,stephane-tissot-chateau-chalon-2011,product,FR
+13996,2,2019-07-25 09:09:17,domaine-des-comtes-lafon-volnay-1er-cru-santenots-du-milieu-2015,product,FR
+15428,7,2018-02-20 10:40:13,st-denis-macon-lugny-2017,product,FR
+,,,,,FR
+7033,4,2019-03-13 13:44:44,huile-olive-planeta-3l,product,FR
+16077,37,2019-07-24 09:33:52,domaine-giudicelli-patrimonio-rouge-2016,product,FR
+16237,36,2018-02-13 14:13:53,elian-daros-cotes-du-marmandais-clos-baquey-2015,product,FR
+16028,9,2019-05-16 15:51:57,clos-du-mont-olivet-cotes-du-rhone-blanc-2019,product,FR
+1364,0,2018-02-13 13:36:44,champagne-mailly-grand-cru-brut-rose,product,FR
+13913,0,2018-07-18 10:46:30,champagne-agrapart-fils-mineral-extra-brut-blanc-de-blancs-grand-cru-2012,product,FR
+19815,0,2018-02-12 09:04:37,pierre-jean-villa-cote-rotie-carmina-2017,product,FR
+14982,0,2019-01-31 15:13:51,francois-baur-gewurztraminer-herrenweg-de-turckheim-2016,product,FR
+15339,0,2018-02-13 11:39:19,zind-humbrecht-pinot-gris-roche-calcaire-2017,product,FR
+15382,0,2018-02-13 11:08:45,zind-humbrecht-riesling-gc-rangen-thann-clos-st-urbain-2017,product,FR
+15325,4,2019-03-27 17:59:49,agnes-levet-amethyste-2017,product,FR
+14941,6,2018-02-13 14:34:40,elian-daros-cotes-du-marmandais-coucou-blanc-2016,product,FR
+15241,0,2019-03-26 17:54:19,maison-trimbach-riesling-grand-cru-schlossberg-2015,product,FR
+12641,0,2018-03-22 10:53:34,whisky-wemyss-peat-chimney-batch-strength,product,FR
+12942,0,2018-02-27 13:29:52,domaine-serol-mousseux-turbullent,product,FR
+15344,0,2018-07-31 11:55:32,albert-mann-pinot-noir-les-saintes-claires-2017,product,FR
+15661,0,2020-02-22 14:03:10,catherine-et-claude-marechal-savigny-les-beaune-rouge-2017,product,FR
+16274,13,2018-05-03 13:09:18,mourgues-du-gres-costieres-de-nimes-capitelles-rose-2018,product,FR
+15718,0,2018-02-16 10:02:13,lucien-boillot-volnay-1ercru-angles-2017,product,FR
+14395,4,2018-05-15 10:45:05,alphonse-mellot-sancerre-blanc-edmond-2016,product,FR
+15254,0,2019-03-13 14:56:23,camille-giroud-marsannay-longeroies-2016,product,FR
+14839,3,2018-07-17 14:32:01,chateau-tour-des-gendres-bergerac-blanc-cuvee-des-conti-2017,product,FR
+13957,0,2018-11-26 10:16:51,thierry-germain-saumur-champigny-franc-de-pied-2017,product,FR
+15004,3,2018-04-17 21:08:33,albert-mann-gewurztraminer-2017,product,FR
+16005,4,2018-06-07 17:05:04,chateau-lafont-menaut-pessac-leognan-rouge-2017,product,FR
+15615,8,2018-05-15 12:00:26,jean-baptiste-arena-patrimonio-morta-maio,product,FR
+15206,5,2018-04-17 09:47:54,thierry-germain-saumur-blanc-linsolite-2018,product,FR
+14371,0,2018-04-13 15:53:44,alphonse-mellot-sancerre-rouge-la-demoiselle-2015,product,FR
+15378,1,2018-02-13 09:51:50,paul-ginglinger-pinot-noir-les-rocailles-2016,product,GER
+15141,18,2018-02-13 14:26:09,elian-daros-cotes-du-marmandais-vin-fete-2017,product,GER
+14805,0,2018-05-15 10:10:57,domaine-des-croix-corton-grand-cru-les-greves-2017,product,GER
+16238,7,2018-02-13 13:57:13,elian-daros-cotes-du-marmandais-chante-coucou-2016,product,GER
+15280,0,2018-04-17 15:53:22,domaine-rotier-gaillac-blanc-doux-les-gravels-2016,product,GER
+,,,,,IT
+15038,10,2018-04-13 15:27:12,gilbert-picq-chablis-vieilles-vignes-2017,product,IT
+16505,12,2018-02-13 10:19:23,emile-boeckel-riesling-gc-wiebelsberg-2016,product,IT
+15880,1,2018-04-18 11:31:10,francois-baur-pinot-gris-herrenweg-de-turckheim-2018,product,IT
+16527,15,2018-04-17 22:17:45,domaine-schoenheitz-pinot-noir-tradition-2019,product,IT
+15649,18,2018-09-13 15:25:52,la-preceptorie-maury-sec-rouge-copain-comme-cochon-2018,product,IT
+15621,19,2018-04-12 09:51:40,domaine-giudicelli-vfd-ete-rouge-2018,product,IT
+14604,7,2019-07-24 09:27:36,domaine-giudicelli-muscat-du-cap-corse-2016,product,IT
+15032,8,2018-02-20 11:48:09,domaine-saint-denis-bourgogne-rouge-le-clos-2017,product,IT
+,,,,,IT
+15329,3,2019-03-27 18:28:15,agnes-levet-cote-rotie-peroline-2017,product,IT
+15733,19,2018-04-19 14:35:01,maurice-schoech-riesling-grand-cru-kaefferkopf-2018,product,IT
+15237,0,2019-03-26 17:42:31,maison-trimbach-riesling-2017,product,IT
+15711,0,2018-07-31 10:33:12,lucien-boillot-gevrey-chambertin-les-evocelles-2017,product,IT
+15261,6,2018-02-16 14:53:33,cotelleraie-saint-nicolas-croisee-2018,product,IT
+15790,0,2020-01-23 11:23:58,weingut-besson-strasser-zurich-rauschling-2018,product,IT
+15414,3,2018-02-15 14:40:54,mas-laval-igp-pays-dherault-les-pampres-rouges-2017,product,IT
+15030,9,2018-04-13 15:35:29,gilbert-picq-chablis-2017,product,IT
+14950,4,2018-04-18 11:53:51,francois-baur-pinot-noir-schlittweg-2017,product,IT
+15892,0,2019-04-18 11:22:53,domaine-labranche-laffont-pacherenc-vic-bihl-sec-2017,product,IT
+15425,4,2018-05-17 12:26:25,domaine-la-croix-belle-cotes-de-thongue-rouge-la-caringole-2018,product,IT
+16130,9,2018-10-09 15:22:19,decelle-villa-meursault-2018,product,IT
+,,,,,IT
+807,0,2018-04-14 11:43:35,marcel-windholtz-eau-de-vie-de-sureau-copie,product,IT
+15933,12,2018-04-17 16:24:35,domaine-de-joy-cotes-de-gascogne-blanc-moelleux-saint-andre-2018,product,IT
+15868,6,2018-07-17 09:30:42,duband-cotes-de-nuits-villages-2017,product,IT
+,,,,,IT
+15478,1,2018-04-13 13:36:35,marc-colin-et-fils-saint-aubin-en-montceau-2017,product,IT
+15269,6,2018-02-12 10:16:27,pierre-gaillard-cote-rotie-rose-pourpre-2017,product,IT
+,,,,,
+13904,0,2018-09-06 10:07:35,australie-maverick-breechens-blend-2012,product,US
+793,4,2018-04-14 11:52:20,marcel-windholtz-eau-de-vie-de-coing,product,US
+14302,7,2018-04-19 13:03:31,chateau-de-la-liquiere-pays-dherault-blanc-a-mi-chemin-2017,product,US
+14192,0,2018-10-09 17:27:22,chateau-de-la-selve-coteaux-de-lardeche-rouge-serre-berty-2014,product,US
+10775,0,2018-04-17 21:28:52,albert-mann-pinot-gris-vendanges-tardives-altenbourg-2011,product,US
+15448,1,2018-04-19 13:48:57,maurice-schoech-pinot-auxerrois-2018,product,US
+15736,0,2020-04-24 21:32:59,gratavinum-priorat-2%cf%80r-2017,product,US
+,,,,,US
+15648,3,2018-02-13 13:32:49,champagne-mailly-grand-cru-extra-brut-2012,product,US
+15921,0,2019-01-15 16:31:35,albert-boxler-riesling-grand-cru-sommerberg-d-2018,product,US
+16148,1,2018-05-03 13:20:05,chateau-de-la-selve-igp-coteaux-de-lardeche-maguelonne-rose-2019,product,US
+15735,0,2020-04-24 20:55:26,domino-romano-ribera-del-duero-rdr-2015,product,US
+15196,0,2018-04-17 22:04:25,domaine-schoenheitz-pinot-blanc-val-saint-gregoire-2017,product,US
+16071,0,2020-01-18 10:21:05,clos-du-mont-olivet-chateauneuf-du-pape-2018,product,US
+13531,1,2018-07-27 10:21:50,domaine-de-montgilet-anjou-rouge-2016-2,product,US
+13969,0,2018-11-26 10:28:41,thierry-germain-saumur-champigny-clos-echelier-2017,product,US
+14632,0,2018-04-18 21:29:50,jean-paul-brun-saint-amour-2017,product,US
+12869,0,2019-03-28 14:29:35,stephane-tissot-arbois-dd-2016,product,UK
+16564,3,2018-04-19 13:41:51,paul-ginglinger-pinot-blanc-2017,product,UK
+14975,0,2018-02-12 09:45:14,pierre-gaillard-condrieu-2018,product,UK
+13435,10,2018-02-12 14:52:10,domaine-des-bosquets-gigondas-colline-2015,product,UK
+16263,12,2018-02-15 10:36:35,chateau-de-la-liquiere-faugeres-les-amandiers-rouge-2019,product,UK
+14506,0,2018-04-19 14:56:05,domaine-peyre-rose-clos-des-cistes-2008,product,UK
+15527,0,2018-04-17 15:22:16,pelle-menetou-salon-rouge-les-cris-2015,product,UK
+14580,0,2018-07-17 09:53:18,david-duband-morey-saint-denis-1er-cru-les-broc-2016,product,UK
+13089,1,2018-02-27 13:20:53,domaine-serol-cote-roannaise-cabochard-2016,product,UK
+16053,1,2018-04-17 15:14:00,pelle-menetou-salon-blanc-le-carroir-2018,product,UK
+14944,3,2018-02-13 14:29:41,elian-daros-cotes-du-marmandais-vignoble-elian-2016,product,UK
+16264,38,2019-05-03 11:18:00,chateau-de-la-liquiere-faugeres-ampoule-2019,product,UK
+11586,0,2018-03-22 10:28:41,whisky-wemyss-spice-king,product,UK
+15213,1,2018-02-16 10:23:45,ecu-muscadet-classic-2018,product,UK
+13959,1,2018-11-26 10:12:27,thierry-germain-saumur-champigny-terres-chaudes-2017,product,UK
+15657,0,2018-04-17 22:07:28,domaine-schoenheitz-pinot-gris-herrenreben-2017,product,UK
+16151,4,2018-04-13 13:49:18,catherine-et-claude-marechal-bourgogne-aligote-2018,product,UK
+15479,0,2020-01-03 17:12:27,marc-colin-et-fils-saint-aubin-1ercru-chateniere-2017,product,UK
+15887,0,2020-05-02 15:00:54,jamet-cote-rotie-fructus-voluptas-2018,product,UK
+,,,,,UK
+15891,0,2020-05-02 14:53:40,camin-larredya-jurancon-sec-la-virada-2018,product,UK
+bon-cadeau-25-euros,10,2018-06-01 13:53:46,bon-cadeau-de-25-euros,product,UK
+12791,0,2018-07-17 10:36:03,domaine-des-comtes-lafon-volnay-1er-cru-santenots-du-milieu-2014,product,UK
+13910,5,2019-03-28 10:30:16,gilbert-picq-chablis-1er-cru-vaucoupin-2016,product,UK
+16210,43,2018-02-14 16:54:33,maurel-pays-oc-chardonnay-2019,product,UK
+15526,4,2018-10-09 14:21:32,pelle-menetou-salon-blanc-ratier-2018,product,UK
+16342,1,2018-05-03 11:37:55,chateau-turcaud-rose-2019,product,UK
+13567,2,2019-03-19 15:34:53,la-croix-meunier-saint-emilion-grand-cru-2014,product,UK
+3506,1,2018-03-22 11:13:24,cognac-frapin-vsop,product,UK
+15047,5,2018-05-17 12:29:29,domaine-la-croix-belle-cotes-de-thongue-rouge-le-champ-du-coq-2016,product,UK
+11258,2,2019-03-13 14:02:06,huile-dolive-extra-vierge-planeta-50cl,product,UK
+14338,0,2019-03-15 10:13:30,maurel-pays-d-oc-cabernet-sauvignon-2017,product,UK
+2179,0,2018-04-14 11:56:12,marcel-windholtz-eau-de-quetsch-dalsace-reserve-particuliere,product,UK
+16318,11,2018-02-12 12:07:23,mourgues-du-gres-costieres-de-nimes-galets-rouges-2019,product,UK
+,,,,,UK
+14095,0,2019-03-28 14:54:20,stephane-tissot-arbois-pinot-noir-sous-la-tour-2016,product,UK
+7086,0,2018-02-13 13:41:05,champagne-mailly-grand-cru-intemporelle-rose-2009,product,UK
+16586,26,2018-06-02 09:35:14,chateau-turcaud-entre-deux-mers-2019,product,UK
+16013,4,2018-02-12 15:32:24,rimauresq-cotes-de-provence-cru-classe-blanc-2019,product,UK
+15202,6,2018-11-26 10:08:20,thierry-germain-saumur-champigny-domaine-2018,product,UK
+11601,0,2019-07-25 09:15:41,domaine-des-comtes-lafon-volnay-1er-cru-champans-2013,product,UK
+15658,6,2018-04-17 22:11:25,domaine-schoenheitz-pinot-noir-herrenreben-2017,product,UK
+16153,8,2018-02-28 13:27:18,chateau-de-cazeneuve-pic-saint-loup-le-sang-du-calvaire-2017,product,UK
+15315,0,2018-04-18 21:33:24,domaine-de-montgilet-anjou-blanc-2016,product,UK
+16067,0,2020-02-22 14:29:36,domaine-hauvette-igp-alpilles-dolia-2013,product,UK
+15318,0,2019-04-25 09:47:47,i-fabbri-chianti-classico-gran-selezione-2015,product,UK
+14855,6,2019-01-15 15:52:33,albert-boxler-chasselas-2016,product,UK
+15444,7,2018-02-12 14:02:17,gilles-robin-crozes-hermitage-marelles-2018,product,UK
+,,,,,UK
+16230,0,2020-07-20 11:00:00,domaine-saint-nicolas-fiefs-vendeens-blanc-les-clous-2019,product,UK
+16305,3,2018-10-09 14:32:21,domaine-bulliat-beaujolais-blanc-2019,product,UK
+16066,10,2018-02-28 13:33:10,hauvette-baux-provence-amethyste-2017,product,UK
+15205,0,2020-01-18 10:54:29,thierry-germain-saumur-champigny-les-memoires-2018,product,UK
+16262,2,2018-04-17 09:34:01,bernard-baudry-chinon-blanc-croix-boissee-2018,product,UK
+,,,,,UK
+15860,22,2018-10-31 13:33:53,chambeyron-cotes-du-rhone-2017,product,UK
+16578,0,2018-02-28 14:57:26,domaine-de-la-tour-du-bon-bandol-saint-ferreol-2018,product,UK
+15473,1,2020-01-03 17:01:21,marc-colin-et-fils-chassagne-montrachet-blanc-1cru-champs-gain-2017,product,UK
+,,,,,UK
+16144,0,2020-03-10 14:03:32,chateau-simone-blanc-2017,product,UK
+14332,1,2018-02-14 16:45:18,ollieux-romanis-monsieur-pinot-2017,product,UK
+16304,14,2019-01-30 16:32:42,philippe-nusswitz-igp-cevennes-opale-rose-2019,product,UK
+16295,46,2018-02-15 14:05:06,moulin-de-gassac-igp-pays-dherault-guilhem-rose-2019,product,FR
+13849,0,2019-03-13 14:05:40,huile-dolive-extra-vierge-planeta-3x-10cl,product,FR
+15204,3,2020-01-18 10:54:27,thierry-germain-saumur-champigny-la-marginale-2018,product,FR
+14802,0,2018-05-15 09:44:00,domaine-des-croix-beaune-1er-cru-les-cent-vignes-2017,product,FR
+14945,2,2018-02-27 09:57:24,chermette-vissoux-beaujolais-blanc-collonge-2017,product,FR
+16160,17,2018-02-14 17:43:30,hortus-pic-saint-loup-la-bergerie-rose-2019,product,FR
+14485,5,2018-02-20 15:52:12,domaine-huet-vouvray-le-mont-sec-2017,product,FR
+15361,3,2018-04-17 22:01:10,domaine-schoenheitz-muscat-2017,product,FR
+15934,2,2018-04-17 16:16:34,domaine-de-joy-cotes-de-gascogne-envie-de-joy-2018,product,FR
+15813,0,2018-02-13 09:57:24,paul-ginglinger-riesling-drei-exa-2018,product,FR
+16191,5,2018-02-15 10:33:55,le-pas-de-lescalette-coteaux-languedoc-ze-roze-2019,product,FR
+15629,9,2018-02-14 17:25:46,hortus-pic-saint-loup-la-bergerie-2018,product,FR
+16553,3,2018-02-28 15:20:21,domaine-de-la-tour-du-bon-bandol-rose-2019,product,FR
+16166,7,2018-02-14 17:48:16,hortus-pic-saint-loup-grande-cuvee-2018,product,FR
+11668,0,2018-02-13 11:43:55,zind-humbrecht-pinot-gris-grand-cru-rangen-de-thann-clos-saint-urbain-2012,product,FR
+15944,2,2019-01-15 14:47:12,weinbach-gewurztraminer-theo-2018,product,FR
+12882,0,2019-03-28 17:08:38,domaine-de-montbourgeau-vin-de-paille-2013,product,FR
+16317,30,2018-02-20 11:38:11,domaine-saint-denis-bourgogne-clos-coque-2018,product,FR
+16525,8,2018-04-17 09:28:58,bernard-baudry-chinon-rouge-croix-boissee-2017,product,FR
+,,,,,FR
+15895,0,2019-04-18 09:23:08,clos-du-prieur-terrasses-du-larzac-2018,product,FR
+16324,2,2018-04-17 16:47:34,matthieu-cosse-cahors-solis-2018,product,FR
+14661,5,2019-01-30 16:29:06,philippe-nusswitz-duche-uzes-orenia-rouge-reserve-2016,product,FR
+16322,0,2018-02-15 13:51:32,moulin-gassac-igp-pays-herault-guilhem-rouge-2019,product,FR
+15147,1,2018-04-13 13:59:17,catherine-et-claude-marechal-ladoix-rouge-les-chaillots-2017,product,FR
+15148,0,2018-04-13 14:16:01,catherine-et-claude-marechal-savigny-les-beaune-rouge-2016,product,FR
+,,,,,FR
+16093,0,2018-02-13 14:48:58,8planeta-sicilia-etna-rosso-2018,product,FR
+14865,3,2018-02-27 13:53:06,i-fabbri-chianti-classico-riserva-2015,product,FR
+,,,,,FR
+13854,0,2018-03-02 11:03:30,champagne-larmandier-bernier-vieilles-vignes-levant-2008,product,FR
+16537,2,2018-02-27 10:56:17,domaine-bulliat-morgon-amphore-cou-de-jus-2019,product,FR
+14930,3,2018-06-07 17:11:47,chateau-lafont-menaut-pessac-leognan-blanc-2017,product,FR
+16239,1,2018-04-17 16:36:10,chateau-plaisance-fronton-rose-2019,product,FR
+15672,0,2018-02-16 10:38:32,domaine-de-lecu-muscadet-granite-2018,product,FR
+15306,2,2018-02-16 14:22:18,pierre-martin-sancerre-rouge-2017,product,FR
+12599,1,2018-02-16 10:46:59,domaine-de-lecu-muscadet-orthogneiss-2014,product,FR
+,,,,,FR
+,3,2018-08-08 11:23:43,pierre-jean-villa-condrieu-suspendu-2018,product,FR
+15441,9,2018-02-15 11:47:07,chateau-de-la-liquiere-faugeres-rouge-2017,product,FR
+16229,0,2018-04-18 22:15:13,domaine-saint-nicolas-fiefs-vendeens-rouge-reflets-2018,product,FR
+15655,0,2018-02-15 14:21:07,mas-de-daumas-gassac-igp-saint-guilhem-le-desert-blanc-2019,product,FR
+12588,0,2018-03-02 10:00:02,champagne-egly-ouriet-extra-brut-vp,product,FR
+13211,0,2019-04-18 17:36:03,zind-humbrecht-riesling-clos-windsbuhl-2014,product,FR
+15185,0,2019-03-13 14:43:22,camille-giroud-clos-de-vougeot-2016,product,FR
+19814,3,2018-02-09 14:01:05,pierre-jean-villa-igp-gamine-2018,product,FR
+14897,0,2020-04-24 21:18:32,gratavinum-priorat-gv5-2011,product,FR
+15756,1,2018-10-09 15:02:42,david-beaupere-julienas-vayolette-2017,product,FR
+14915,0,2019-01-15 15:30:49,domaine-weinbach-gewurztraminer-gc-furstentum-sgn-2010,product,FR
+15292,1,2018-02-28 13:43:33,domaine-hauvette-igp-alpilles-jaspe-2017-2,product,FR
+14856,3,2019-01-15 16:00:35,albert-boxler-cremant-2014,product,ES
+14241,1,2019-01-31 14:57:35,albert-mann-gewurztraminer-vendanges-tardives-altenbourg-2015,product,ES
+15791,1,2020-01-23 11:39:24,weingut-besson-strasser-zurich-fume-2017,product,ES
+3510,13,2018-03-22 11:21:05,cognac-frapin-vip-xo,product,ES
+13914,0,2018-07-18 10:39:43,champagne-agrapart-fils-lavizoise-grand-cru-2012-extra-brut-blanc-de-blancs,product,ES
+,,,,,ES
+15845,1,2020-04-25 12:43:23,chateau-jean-faure-saint-emilion-grand-cru-2016,product,ES
+15567,1,2018-02-28 15:13:09,domaine-de-la-tour-du-bandol-en-sol-2017,product,ES
+15952,3,2018-05-11 15:05:32,jacqueson-rully-rouge-les-chaponnieres-2018,product,ES
+15753,0,2018-10-09 14:59:27,david-beaupere-julienas-bottiere-2018,product,ES
+16246,0,2018-02-28 14:46:15,la-tour-du-bon-bandol-blanc-2019,product,ES
+15797,0,2019-01-30 16:47:30,planeta-sicilia-etna-bianco-2018,product,ES
+15574,0,2019-04-18 11:39:43,ancienne-cure-bergerac-blanc-sec-2016,product,FR
+15958,2,2018-06-02 09:28:24,chateau-turcaud-bordeaux-rouge-2016,product,FR
+15415,6,2018-02-15 14:33:42,mas-laval-igp-pays-herault-pampres-blanc-2018,product,FR
+15282,1,2018-04-17 15:56:56,domaine-rotier-gaillac-rouge-les-gravels-2016,product,FR
+,,,,,FR
+15720,0,2018-02-16 09:43:40,lucien-boillot-nuits-saint-georges-1ercru-pruliers-2017,product,FR
+,,,,,FR
+13209,0,2018-02-13 11:49:42,zind-humbrecht-muscat-gc-goldert-2015,product,FR
+12771,0,2018-04-19 14:41:18,maurice-schoech-riesling-grand-cru-rangen-de-thann-2016,product,FR
+15070,0,2019-07-25 09:31:09,domaine-des-comtes-lafon-volnay-1er-cru-champans-2016,product,FR
+14679,4,2018-10-09 14:05:15,domaine-saint-nicolas-fiefs-vendeens-rouge-grande-piece-2013,product,FR
+13096,1,2018-04-19 13:29:50,maurice-schoech-cremant-dalsace-brut-rose-bulles-de-granite,product,FR
+15487,1,2019-06-04 17:04:39,chateau-de-villeneuve-saumur-champigny-2017,product,FR
+11736,0,2019-01-31 13:19:51,domaine-de-lecu-muscadet-taurus-2012,product,FR
+16244,0,2018-02-27 13:09:12,serol-cote-roannaise-originelles-2019,product,FR
+3568,10,2018-04-19 14:48:15,emile-boeckel-cremant-brut-rose,product,FR
+15436,0,2018-02-20 09:49:21,domaine-augustin-collioure-rouge-adeodat-2017,product,FR
+,,,,,
+16539,5,2019-03-28 10:42:01,thevenet-quintaine-vire-clesse-emilian-gillet-2017,product,GER
+14570,0,2019-06-28 18:01:06,moulin-de-gassac-igp-pays-dherault-guilhem-blanc-2017,product,GER
+16043,1,2018-02-12 10:41:11,pierre-gaillard-saint-joseph-2018,product,GER
+15870,0,2018-07-17 10:14:28,david-duband-nuits-saint-georges-2017,product,GER
+15264,3,2019-03-13 15:12:41,decelle-villa-auxey-blanc-2017,product,GER
+14366,0,2018-04-18 21:00:55,jean-paul-brun-beaujolais-le-ronsay-2016,product,GER
+15647,7,2020-01-04 10:02:37,saumaize-michelin-pouilly-fuisse-ampelopsis-2016,product,GER
+,,,,,GER
+12587,3,2018-03-02 10:37:26,champagne-egly-ouriet-grand-cru-brut-rose,product,GER
+14955,1,2019-03-19 11:43:49,le-puy-cotes-de-francs-emilien-2016,product,GER
+13215,0,2019-04-18 17:05:30,zind-humbrecht-pinot-gris-windsbuhl-2013,product,GER
+15486,0,2019-06-04 17:23:20,chateau-de-villeneuve-saumur-champigny-bienboire-2018,product,GER
+15183,1,2019-03-13 14:49:54,camille-giroud-maranges-1er-cru-le-croix-moines-2016,product,GER
+,,,,,GER
+15670,0,2018-04-17 22:14:29,domaine-schoenheitz-pinot-noir-val-saint-gregoire-2017,product,GER
+11049,0,2018-04-13 16:07:49,alphonse-mellot-sancerre-rouge-en-grands-champs-2012,product,GER
+15794,1,2020-01-23 12:06:12,weingut-besson-strasser-zurich-pinot-noir-chlosterberg-2016,product,GER
+15946,0,2018-02-28 16:42:41,domaine-de-lidylle-savoie-mondeuse-2018,product,GER
+5646,0,2018-04-18 20:24:22,domaine-mure-cremant-dalsace-cuvee-prestige,product,GER
+14100,0,2019-06-08 09:39:05,stephane-tissot-arbois-trousseau-amphore-2017,product,GER
+,,,,,GER
+15462,0,2018-09-06 10:45:03,chili-valdivieso-merlot-2017,product,GER
+16565,0,2019-07-24 09:28:46,domaine-giudicelli-vin-de-france-corail-rouge-2019,product,GER
+16081,0,2018-04-17 10:38:36,pierre-martin-sancerre-les-monts-damnes-2018,product,GER
+,,,,,GER
+13074,0,2018-02-12 14:25:28,chateau-de-vaudieu-chateauneuf-du-pape-lavenue-2015,product,GER
+16585,3,2018-02-16 14:03:16,xavier-frissant-touraine-sauvignon-2019,product,GER
+11602,0,2018-07-17 10:52:41,domaine-des-comtes-lafon-volnay-1er-cru-santenots-du-milieu-2013,product,GER
+15145,0,2018-04-13 14:31:47,francois-bergeret-hautes-cotes-de-beaune-rouge-2017,product,GER
+13736,1,2018-04-17 17:05:09,domaine-plageoles-cotes-du-tarn-blanc-sec-ondenc,product,GER
+16256,8,2018-02-15 12:02:37,chateau-de-la-liquiere-faugeres-les-amandiers-rose-2019,product,GER
+15665,2,2018-02-27 10:30:04,chermette-domaine-du-vissoux-moulin-a-vent-trois-roches-2018,product,GER
+523,0,2019-04-06 15:25:58,cognac-normandin-mercier-vfc,product,GER
+15631,21,2019-02-21 16:19:41,boudignon-anjou-blanc-2018,product,GER
+14775,0,2019-04-04 16:49:37,wemyss-malts-single-cask-scotch-whisky-choc-n-nut-pretzel-2001,product,GER
+,10,2018-07-31 12:07:23,pierre-jean-villa-cote-rotie-fongeant-2017,product,GER
+14844,3,2019-01-15 16:18:18,albert-boxler-pinot-gris-reserve-2016,product,GER
+13073,0,2019-04-25 12:39:20,chateau-de-vaudieu-chateauneuf-du-pape-amiral-g-2015,product,GER
+,,,,,GER
+2534,2,2018-04-14 11:50:29,marcel-windholtz-eau-de-vie-de-fraise,product,GER
+13032,2,2018-02-15 11:58:43,chateau-de-liquiere-faugeres-tucade-2015,product,IT
+4679,0,2018-03-01 14:19:24,champagne-mailly-grand-cru-les-echansons-2007,product,IT
+16540,2,2018-04-18 12:00:04,paul-ginglinger-riesling-grand-cru-pfersigberg-2018,product,IT
+14508,0,2018-07-12 14:05:47,domaine-peyre-rose-marlene-n3-2008,product,IT
+13127-1,0,2020-06-09 15:42:04,clos-du-mont-olivet-chateauneuf-du-pape-2007-2,product,IT
+15533,24,2018-05-17 11:09:36,alain-graillot-crozes-hermitage-rouge-la-guiraude-2016,product,IT
+15676,0,2018-02-13 09:24:04,ginglinger-gewurzt-wahlenbourg-2017,product,IT
+14864,12,2018-02-27 13:33:54,i-fabbri-chianti-classico-lamole-2017,product,IT
+13217,0,2018-02-13 11:58:08,zind-humbrecht-gewurzt-grand-cru-rangen-de-thann-clos-saint-urbain-2013,product,IT
+13230,0,2018-03-22 11:40:06,cognac-frapin-chateau-de-fontpinot-xo-1-2,product,IT
+15525,2,2018-04-17 15:18:53,pelle-menetou-salon-blanc-morogues-2018,product,IT
+15338,0,2018-05-17 13:41:23,oratoire-saint-martin-cairanne-blanc-reserve-des-seigneurs-2018,product,IT
+14099,0,2019-03-28 14:59:48,stephane-tissot-arbois-trousseau-singulier-2017,product,IT
+14372,0,2018-04-13 16:03:28,alphonse-mellot-sancerre-rouge-la-moussiere-2014,product,IT
+15136,3,2018-02-27 10:34:22,bulliat-beaujolais-villages-bibine-2018,product,IT
+15737,14,2018-06-02 09:23:21,chateau-turcaud-bordeaux-blanc-cuvee-majeure-2018,product,IT
+16261,1,2018-04-17 09:37:34,bernard-baudry-chinon-blanc-2018,product,IT
+13291,0,2019-03-19 10:30:57,chateau-de-chantegrive-caroline-blanc-2016,product,IT
+15818,12,2019-03-13 14:17:23,parce-freres-collioure-rouge-petit-gus-2018,product,IT
+15298,6,2018-02-08 12:58:52,pierre-jean-villa-saint-joseph-preface-2018,product,IT
+16057,0,2018-04-17 15:29:17,pelle-sancerre-rouge-la-croix-au-garde-2017,product,IT
+,,,,,IT
+12366,0,2019-01-29 15:23:12,pares-balta-penedes-hisenda-miret-2013,product,IT
+16189,42,2018-02-15 10:10:23,le-pas-de-lescalette-languedoc-petits-pas-2019,product,IT
+15928,10,2018-05-17 11:53:08,cave-de-castelmaure-corbieres-rouge-vigneron-2018,product,IT
+14912,0,2019-01-15 15:00:13,domaine-weinbach-pinot-blanc-2017,product,IT
+15310,14,2018-02-20 10:07:41,parce-freres-cotes-roussillon-zoe-rouge-2018,product,IT
+15178,4,2019-03-13 15:01:34,camille-giroud-santenay-blc-2017,product,IT
+16042,7,2018-02-12 09:54:27,pierre-gaillard-cornas-2017,product,IT
+15561,24,2019-03-15 10:20:59,maurel-pays-d-oc-merot-2018,product,IT
+15281,0,2018-04-17 16:06:47,domaine-rotier-gaillac-rouge-lame-2016,product,IT
+15713,2,2018-07-31 10:51:21,lucien-boillot-gevrey-chambertin-2017,product,IT
+15426,3,2018-04-11 13:32:19,montcalmes-larzac-rouge-2017,product,IT
+802,0,2018-04-14 11:48:19,marcel-windholtz-eau-de-vie-de-marc-de-muscat,product,IT
+16159,18,2019-04-26 11:08:24,domaine-la-croix-belle-cotes-de-thongue-rose-grillons-2019,product,IT
+15859,0,2018-04-18 22:12:03,domaine-saint-nicolas-fiefs-vendeens-rouge-cuvee-jacques-2016,product,IT
+15073,0,2018-07-17 10:56:21,domaine-des-comtes-lafon-monthelie-1er-cru-les-duresses-2017,product,IT
+16022,0,2018-09-01 15:39:38,nouvelle-zelande-marlborough-momo-sauvignon-blanc-2018,product,IT
+15674,0,2019-01-31 14:08:10,domaine-terres-d-ocre-saint-pourcain-blanc-instant-t-2018,product,IT
+13958,0,2018-11-26 10:16:49,thierry-germain-saumur-champigny-la-marginale-2017__trashed,product,IT
+15360,2,2019-01-31 13:42:46,domaine-huet-vouvray-petillant-2014,product,IT
+15775,0,2019-03-28 10:11:26,saumaize-michelin-saint-veran-creches-2018,product,IT
+14797,0,2019-06-08 10:05:31,gilles-robin-cornas-2016,product,IT
+15783,0,2018-02-14 17:55:16,hortus-la-grande-cuvee-blanc-2018,product,IT
+14596,0,2019-07-23 10:37:14,david-duband-chambolle-musigny-1er-cru-les-sentiers-2016,product,IT
+11996,0,2018-07-18 10:05:56,champagne-agrapart-fils-les-7-crus-brut-blanc-de-blancs,product,IT
+15683,12,2018-02-13 10:23:45,emile-boeckel-riesling-brandluft-2018,product,IT
+804,3,2018-04-14 11:59:32,marcel-windholtz-eau-de-mirabelle-dalsace-reserve-particuliere,product,IT
+14809,5,2018-09-13 16:17:15,la-rectorie-banyuls-leon-parce-2016,product,IT
+14089,0,2019-06-08 09:33:48,stephane-tissot-arbois-blanc-la-mailloche-2016,product,UK
+13809,4,2018-05-15 11:11:59,antoine-marie-arena-vin-de-france-rouge-san-giovanni-2017,product,UK
+16135,5,2020-04-25 13:22:38,mouthes-le-bihan-aime-chai-2015,product,UK
+15403,0,2018-02-16 15:21:11,merieau-touraine-arpent-vaudons-2018,product,UK
+16004,5,2018-06-07 16:27:25,chateau-du-couvent-pomerol-2017,product,UK
+16146,3,2018-10-09 17:08:52,chateau-de-la-selve-igp-coteaux-de-lardeche-st-regis-blanc-2019,product,UK
+15707,0,2020-01-03 16:37:41,decelle-villa-chambolle-musigny-2017,product,UK
+14000,2,2018-04-13 13:32:03,marc-colin-et-fils-chassagne-montrachet-blanc-vide-bourses-2016,product,UK
+15201,1,2019-06-08 10:08:41,gilles-robin-saint-joseph-pealat-2010,product,UK
+15583,0,2018-02-14 17:38:26,hortus-la-bergerie-blanc-2018,product,UK
+15774,1,2019-03-28 10:14:07,saumaize-michelin-vire-clesse-2018,product,UK
+15767,1,2018-02-13 10:14:48,emile-boeckel-sylvaner-grand-cru-zotzenberg-2017,product,UK
+14692,0,2019-03-19 10:06:47,fonreaud-bordeaux-blanc-le-cygne-2016,product,UK
+15731,3,2018-04-19 13:56:47,maurice-schoech-pinot-gris-2018,product,UK
+16186,7,2018-04-13 15:45:04,alphonse-mellot-sancerre-blanc-la-moussiere-2018,product,UK
+15434,0,2020-01-04 11:42:17,la-preceptorie-cotes-du-roussillon-blanc-terres-nouvelles-2018,product,UK
+16154,4,2018-02-28 13:21:40,chateau-de-cazeneuve-pic-saint-loup-roc-des-mates-2017,product,UK
+,,,,,UK
+,,,,,US
+12315,1,2018-09-06 11:21:44,chili-montsecano-ostertag-pinot-noir-2013,product,US
+15127,0,2019-02-15 17:54:04,clerget-chambolle-musigny-charmes-2015,product,US
+14725,1,2018-02-20 10:07:09,parce-freres-hommage-fernand-blanc-2019,product,US
+8365,0,2019-01-29 15:38:48,pares-balta-cava-brut-nature,product,US
+15812,11,2019-01-30 16:24:13,philippe-nusswitz-duche-uzes-orenia-blanc-reserve-2018,product,US
+12365,1,2019-01-29 15:53:05,pares-balta-penedes-electio-2013,product,US
+14828,0,2018-11-26 09:52:56,marc-colin-et-fils-chassagne-montrachet-blanc-les-vide-bourses-1er-cru-2016,product,US
+,,,,,US
+,,,,,US
+14581,0,2018-07-17 09:45:39,david-duband-charmes-chambertin-grand-cru-2014,product,US
+14700,8,2018-04-17 21:25:37,albert-mann-pinot-gris-grand-cru-furstentum-2016,product,US
+11585,1,2018-03-12 10:03:27,whisky-wemyss-the-hive,product,US
+,,,,,US
+15138,0,2018-10-09 14:48:09,domaine-bulliat-moulin-a-vent-2017,product,US
+13515,0,2018-04-17 10:01:46,thierry-germain-saumur-champigny-franc-de-pied-2016,product,US
+15927,2,2018-05-17 12:32:07,domaine-la-croix-belle-cotes-de-thongue-rouge-n7-2017,product,FR
+15795,0,2020-01-23 12:04:38,weingut-besson-strasser-zurich-pinot-noir-albi-2016,product,FR
+16063,1,2018-05-15 09:32:58,domaine-brintet-mercurey-rouge-vieilles-vignes-2018,product,FR
+16094,0,2019-01-30 16:54:02,planeta-sicilia-santa-cecilia-2016,product,FR
+14899,3,2019-05-07 17:07:05,christophe-pichon-saint-joseph-blanc-2017,product,FR
+,,,,,FR
+15554,2,2018-05-17 13:03:46,marcel-richaud-rasteau-rouge-2017,product,FR
+,,,,,FR
+15861,1,2018-10-31 13:52:29,domaine-chambeyron-cote-rotie-angeline-2017,product,FR
+,,,,,FR
+15922,0,2019-01-15 16:42:01,albert-boxler-riesling-grand-cru-sommerberg-e-2018,product,FR
+14092,0,2019-06-08 09:42:36,stephane-tissot-arbois-blanc-savagnin-2015,product,FR
+14561,0,2018-09-01 15:34:55,argentine-mendoza-alamos-torrontes-2017,product,FR
+16497,13,2018-02-16 14:47:19,pierre-martin-sancerre-chavignol-blanc-2019,product,FR
+15675,1,2018-02-13 09:48:06,paul-ginglinger-pinot-gris-prelats-2018,product,FR
+15839,4,2018-02-27 13:15:12,domaine-serol-cote-roannaise-millerands-2018,product,FR
+15690,0,2018-02-27 14:18:27,cazeneuve-languedoc-blanc-2016,product,FR
+14220,5,2018-05-15 10:23:41,domaine-des-croix-corton-charlemagne-grand-cru-2016,product,FR
+798,0,2018-04-14 12:05:09,marcel-windholtz-eau-de-vie-de-kirsch-dalsace-reserve-particuliere,product,FR
+15475,0,2018-04-13 13:46:01,marc-colin-et-fils-chassagne-montrachet-rouge-vieilles-vignes-2017,product,FR
+15452,15,2018-04-13 15:15:26,gilbert-picq-chablis-vosgros-1er-cru-2017,product,FR
+13814,0,2018-05-15 11:44:19,jean-batiste-arena-muscat-du-cap-corse-2015,product,FR
+13765,0,2018-03-22 10:32:22,whisky-wemyss-vanilla-burst,product,FR
+15793,1,2020-01-23 11:53:21,weingut-besson-strasser-zurich-pinot-noir-cholfirst-2017,product,FR
+13117,4,2018-02-12 15:05:35,le-vieux-donjon-chateauneuf-du-pape-blanc-2016,product,FR
+13766,0,2018-03-22 10:35:08,whisky-wemyss-treacle-chest,product,FR
+11849,0,2018-04-17 09:52:48,thierry-germain-saumur-blanc-terres-2014,product,FR
+14461,0,2019-03-19 11:07:07,chateau-carbonnieux-graves-blanc-2017,product,FR
+15706,0,2020-01-03 16:42:53,decelle-villa-marsannay-longeroies-2015,product,FR
+16096,0,2019-07-26 09:53:23,planeta-sicilia-eruzione-1614-2017,product,FR
+19821,0,2018-11-26 10:56:30,tempier-bandol-tourtine-2017,product,FR
+11587,0,2018-03-22 10:38:04,whisky-lord-elcho,product,FR
+14905,0,2018-02-13 10:11:16,emile-boeckel-pinot-gris-gc-zotzenberg-2016,product,FR
+15328,3,2019-03-27 18:05:09,agnes-levet-cote-rotie-maestria-2017,product,FR
+16306,1,2018-10-09 14:43:02,domaine-bulliat-chiroubles-2019,product,FR
+12657,0,2018-02-16 15:13:54,belliviere-jasnieres-rosiers-2015,product,FR
+13557,10,2019-01-31 14:13:47,domaine-des-terres-docre-saint-pourcain-rouge-instant-t-2015,product,FR
+16326,0,2019-04-18 11:32:46,camin-larredya-jurancon-moelleux-capceu-2018,product,FR
+15930,2,2019-01-15 14:52:59,domaine-weinbach-riesling-colette-2018,product,FR
+15766,0,2019-04-18 10:50:35,domaine-labranche-laffont-madiran-vieilles-vignes-2015,product,FR
+16120,4,2018-02-13 09:31:50,paul-ginglinger-muscat-caroline-2018,product,FR
+13379,0,2018-05-17 13:36:16,domaine-rouge-garance-cotes-du-rhone-villages-garances-2016,product,FR
+13572,3,2019-03-19 11:33:39,tour-haut-caussan-medoc-2015,product,FR
+15582,0,2018-04-17 16:54:45,matthieu-cosse-cahors-le-sid-2014,product,FR
+16029,10,2018-02-12 11:38:55,clos-du-mont-olivet-cotes-du-rhone-vieilles-vignes-2018,product,FR
+16010,0,2018-04-18 11:45:30,francois-baur-riesling-grand-cru-brand-clos-de-la-treille-2017,product,FR
+14184,0,2018-04-18 21:44:46,domaine-de-montgilet-coteaux-de-laubance-les-trois-schistes-2016,product,FR
+13172,0,2018-02-28 15:29:50,rimauresq-cotes-provence-quintessence-2015,product,FR
+7818,96,2018-03-01 14:02:44,champagne-gosset-grand-blanc-de-blanc,product,FR
+15834,2,2019-07-16 10:22:33,domaine-de-vaccelli-ajaccio-blanc-sirocco-2017,product,FR
+,,,,,FR
+304,40,2018-02-13 12:57:44,gosset-champagne-grande-reserve,product,FR
+,,,,,FR
+14323,0,2019-02-15 18:07:59,domaine-clerget-vosne-romanee-les-violettes-2015,product,FR
+14253,0,2018-02-20 15:29:32,domaine-huet-vouvray-haut-lieu-sec-2016,product,FR
+8344,18,2018-04-18 20:28:24,domaine-mure-cremant-dalsace-rose,product,FR
+15755,1,2018-09-01 09:32:13,david-beaupere-julienas-2018,product,FR
+15369,9,2019-02-15 14:11:24,triennes-igp-mediterranee-rouge-aureliens-2016,product,FR
+15781,1,2020-01-18 10:25:18,clos-du-mont-olivet-lirac-2017,product,FR
+8463,0,2018-11-26 11:25:35,domaine-huet-vouvray-le-mont-moelleux-premiere-trie-2008,product,FR
+12640,1,2018-03-22 10:56:07,whisky-wemyss-spice-king-batch-strength,product,FR
+13072,4,2018-02-12 14:38:37,plateau-des-chenes-lirac-blanc-2016,product,FR
+12586,0,2018-03-02 09:22:39,champagne-egly-ouriet-tradition-grand-cru,product,FR
+,,,,,FR
+15967,20,2018-02-12 13:17:53,oratoire-saint-martin-cairanne-haut-coustias-2016,product,FR
+15849,9,2018-04-13 16:23:55,bernard-baudry-chinon-rouge-les-grezeaux-2017,product,FR
+16129,3,2018-10-09 15:27:50,decelle-villa-nuits-st-georges-rouge-2016,product,FR
+16296,0,2018-02-12 15:13:25,rimauresq-provence-r-blanc-2019,product,FR
+16515,6,2018-06-02 09:31:31,chateau-turcaud-bordeaux-rouge-cuvee-majeure-2018,product,FR
+16024,16,2018-02-15 15:43:45,domaine-montrose-cotes-de-thongue-rose-2019,product,FR
+15413,12,2018-02-15 14:49:25,mas-laval-terrasse-larzac-grande-cuvee-2016,product,FR
+812,0,2018-04-14 11:35:24,marcel-windholtz-eau-de-vie-de-sureau,product,FR
+14149,0,2018-09-01 15:58:23,liban-vallee-de-la-bekaa-chateau-marsyas-2012,product,FR
+,,,,,FR
+12194,0,2018-09-13 16:31:51,la-preceptorie-maury-blanc-2015,product,FR
+,,,,,FR
+11862,0,2018-02-12 13:46:23,gilles-robin-hermitage-2012,product,FR
+16152,0,2020-02-22 14:01:55,catherine-et-claude-marechal-pommard-la-chaniere-2017,product,FR
+15373,7,2018-02-13 15:04:36,planeta-sicilia-la-segreta-rosso-2017,product,FR
+,,,,,FR
+16319,3,2018-02-12 12:56:54,mourgues-du-gres-terres-feu-2017,product,FR
+531,13,2018-07-18 15:58:02,champagne-petit-lebrun-fils-blanc-de-blancs-grand-cru,product,FR
+15072,0,2019-07-25 09:10:32,domaine-des-comtes-lafon-volnay-1er-cru-santenots-du-milieu-2016,product,FR
+15864,1,2018-10-31 13:58:13,domaine-chambeyron-condrieu-vernon-2018,product,FR
+15748,3,2018-11-26 10:57:23,tempier-bandol-2017,product,FR
+12790,0,2019-07-25 09:30:16,domaine-des-comtes-lafon-volnay-1er-cru-champans-2014,product,FR
+12639,0,2018-03-22 10:48:30,whisky-wemyss-the-hive-batch-strength,product,FR
+15869,0,2018-07-17 09:53:48,david-duband-morey-saint-denis-2017,product,FR
+,,,,,FR
+15163,1,2019-07-30 15:03:50,le-pas-de-lescalette-terrasses-du-larzac-les-frieys-2017,product,FR
+15614,0,2018-05-15 10:53:15,antoine-marie-arena-vin-de-france-bianco-gentile-2018,product,FR
+13517,0,2018-04-17 10:16:09,thierry-germain-saumur-champigny-outre-terre-2016,product,FR
+11933,1,2019-03-26 17:57:25,maison-trimbach-riesling-cfe-2008,product,FR
+15539,0,2020-01-18 10:38:05,clos-du-mont-olivet-vins-de-pays-du-gard-confluence-2017,product,FR
+15848,1,2018-04-17 09:23:13,bernard-baudry-chinon-rouge-clos-guillot-2017,product,FR
+15126,0,2019-07-23 10:50:24,domaine-clerget-echezeaux-en-orveaux-2015,product,FR
+14429,0,2019-03-19 16:46:55,chateau-tour-de-pez-saint-estephe-2017,product,FR
+15471,4,2019-03-19 15:58:25,arcole-saint-emilion-grand-cru-2016,product,FR
+14746,12,2018-04-17 21:57:53,domaine-schoenheitz-gewurztraminer-lisenberg-2015,product,FR
+16121,5,2019-01-31 14:39:08,albert-mann-riesling-albert-2017,product,FR
+3509,1,2018-03-22 11:49:53,cognac-frapin-cigar-blend,product,FR
+15300,0,2018-02-08 14:08:36,pierre-jean-villa-croze-hermitage-accroche-coeur-2018,product,FR
+19816,10,2018-02-12 11:25:39,clos-du-mont-olivet-chateauneuf-du-pape-papet-2018,product,FR
+15080,0,2019-03-19 16:41:40,saint-estephe-hauts-de-pez-2016,product,FR
+12476,0,2018-02-20 15:32:29,domaine-huet-vouvray-le-mont-moelleux-2015,product,FR
+9636,0,2018-03-22 10:44:57,whisky-wemyss-the-hive-12-ans,product,FR
+791,0,2018-04-14 11:54:47,marcel-windholtz-eau-de-vie-de-baie-de-houx,product,FR
+15256,0,2020-03-10 14:09:42,chateau-simone-palette-rouge-2015,product,FR
+15481,0,2018-10-09 16:15:00,marc-colin-et-fils-santenay-rouge-2017,product,FR
+15732,0,2018-04-19 14:25:00,maurice-schoech-riesling-2018,product,FR
+15829,15,2018-02-16 11:06:30,xavier-frissant-touraine-roses-du-clos-2018,product,IT
+,,,,,IT
+15613,2,2018-05-15 11:47:17,antoine-marie-arena-patrimonio-hauts-carco-2018,product,IT
+,,,,,IT
+15238,1,2019-03-26 17:31:09,trimbach-muscat-reserve-2017,product,IT
+15404,2,2018-04-17 11:00:54,vincent-careme-vouvray-sec-2018,product,IT
+14800,0,2018-02-13 10:48:51,emile-boeckel-pinot-noir-terres-rouges-2016,product,IT
+,,,,,IT
+16265,8,2018-02-15 10:18:39,liquiere-languedoc-amandiers-blancs-2019,product,IT
+14768,0,2018-03-22 11:03:06,cognac-frapin-1270,product,IT
+13127,23,2018-02-12 11:18:33,clos-du-mont-olivet-chateauneuf-du-pape-2012,product,IT
+16047,12,2018-05-03 12:52:23,philippe-nusswitz-duche-uzes-orenia-blanc-2018,product,IT
+14474,1,2018-02-14 14:53:20,domino-romano-ribera-camino-2016,product,IT
+15346,16,2018-07-31 11:49:05,albert-mann-pinot-noir-grand-h-2017,product,IT
+15530,10,2018-05-17 11:17:53,alain-graillot-crozes-hermitage-blanc-2018,product,IT
+15662,1,2018-02-27 10:13:03,chermette-domaine-du-vissoux-beaujolais-griottes-2018,product,IT
+16330,0,2018-02-28 13:09:29,chateau-de-cazeneuve-val-montferrand-caza-sorix-2019,product,IT
+9562,0,2018-03-02 10:57:02,champagne-larmandier-bernier-latitude,product,IT
+13313,0,2018-06-07 17:16:05,chateau-dutruch-grand-poujeaux-moulis-2016,product,IT
+16062,9,2018-05-15 09:25:03,domaine-brintet-mercurey-blanc-vieilles-vignes-2018,product,IT
+14774,0,2019-04-04 16:39:24,wemyss-malts-single-cask-chocolate-moka-cake,product,IT
+15875,11,2018-04-13 15:41:12,gilbert-picq-chablis-en-vaudecorse-2017,product,IT
+15850,6,2018-04-13 16:14:05,bernard-baudry-chinon-rouge-les-granges-2018,product,IT
+13647,0,2018-04-17 11:06:33,vincent-careme-vouvray-moelleux-2015,product,IT
+16072,0,2018-04-19 13:14:36,clos-du-mont-olivet-cotes-du-rhone-rose-farel-2019,product,IT
+,,,,,IT
+14101,0,2019-06-08 09:55:58,stephane-tissot-arbois-vin-jaune-en-spois-2011,product,IT
+13412,0,2018-04-18 21:03:27,jean-paul-brun-beaujolais-lancien-2016,product,IT
+15036,0,2019-01-31 13:23:20,domaine-de-lecu-muscadet-gneiss-2015,product,IT
+15402,0,2018-04-17 10:45:13,la-cotelleraie-saint-nicolas-de-bourgueil-le-vau-jaumier-2016,product,IT
+15489,0,2019-06-04 17:25:46,chateau-de-villeneuve-saumur-champigny-grand-clos-2017,product,IT
+15951,0,2019-05-16 15:54:52,jacqueson-rully-rouge-1er-cru-les-preaux-2018,product,IT
+15490,19,2018-02-12 13:24:30,gilles-robin-alberic-2017,product,IT
+15337,2,2018-05-17 13:45:08,oratoire-saint-martin-cairanne-blanc-haut-coustias-2017,product,IT
+14507,0,2018-07-12 11:20:07,domaine-peyre-rose-syrah-leone-2008,product,IT
+16529,8,2018-02-15 10:58:12,chateau-de-la-liquiere-faugeres-cistus-blanc-2019,product,IT
+15035,0,2019-01-31 14:25:44,alliet-chinon-rouge-noire-2016,product,IT
+15741,2,2020-04-25 12:49:49,cedre-de-jean-faure-saint-emilion-2016,product,IT
+16147,4,2019-03-07 16:05:51,chateau-de-la-selve-vdf-petite-selve-2019,product,IT
+,,,,,IT
+15466,13,2018-04-17 21:20:47,albert-mann-pinot-gris-cuvee-albert-2017,product,IT
+15773,5,2018-05-11 14:10:53,saumaize-michelin-pouilly-fuisse-clos-sur-la-roche-2018,product,IT
+,,,,,IT
+16014,0,2018-02-12 15:21:03,rimauresq-cotes-de-provence-cru-classe-r-2017,product,IT
+15717,2,2018-02-16 09:55:50,lucien-boillot-volnay-2017,product,IT
+,,,,,IT
+11467,0,2018-03-22 10:12:29,whisky-wemyss-peat-chimney,product,IT
+16034,3,2018-09-25 15:35:26,clos-du-mont-olivet-chateauneuf-du-pape-2007,product,IT
+14265,1,2019-04-04 15:56:05,darnleys-london-dry-gin-spiced,product,IT
+16039,18,2018-02-12 11:56:27,mourgues-galets-dores-2019,product,IT
+10014,0,2019-04-04 15:45:23,darnleys-london-dry-gin-original,product,IT
+7819,0,2018-03-22 11:42:48,cognac-frapin-chateau-de-fontpinot-1989-20-ans,product,IT
+16449,6,2018-02-12 10:50:59,pierre-gaillard-saint-joseph-blanc-2019,product,IT
+15283,0,2018-04-17 16:09:58,domaine-rotier-gaillac-rouge-renaissance-2016,product,IT
+,,,,,IT
+15668,3,2018-02-13 14:57:29,planeta-sicilia-segreta-bianco-2017,product,IT
+15482,3,2018-02-14 15:12:58,pares-balta-penedes-calcari-2018,product,IT
+,,,,,IT
+,,,,,IT
+16213,8,2019-03-15 10:24:21,maurel-pays-d-oc-syrah-2019,product,IT
+15729,2,2018-04-18 12:08:52,schoech-gewurztraminer-vt-2017,product,IT
+15155,1,2018-09-13 16:26:11,la-preceptorie-maury-aurelie-2017,product,IT
+16501,1,2018-02-28 14:53:17,domaine-de-la-tour-du-bon-bandol-2018,product,IT
+15480,0,2018-02-16 10:12:18,marc-colin-saint-aubin-luce-2017,product,IT
+15179,0,2019-03-13 14:39:13,camille-giroud-auxey-duresses-blc-2017,product,IT
+,,,,,IT
+15769,0,2020-01-04 11:37:10,la-preceptorie-cotes-du-roussillon-coume-marie-2018-blc,product,IT
+15714,1,2018-02-16 09:50:55,lucien-boillot-pommard-2017,product,IT
+15429,7,2018-04-18 21:49:35,domaine-de-montgilet-coteaux-de-laubance-2017,product,IT
+,,,,,IT
+12045,1,2018-02-12 14:17:41,chateau-de-vaudieu-chateauneuf-du-pape-blanc-2015,product,IT
+14509,0,2018-07-12 11:22:04,domaine-peyre-rose-oro-2002,product,IT
+15730,0,2018-04-19 14:37:49,maurice-schoech-pinot-gris-grand-cru-schlossberg-2017,product,IT
+,,,,,IT
+,,,,,IT
+15605,5,2018-02-15 10:42:15,chateau-de-la-liquiere-faugeres-cistus-rouge-2017,product,IT
+1366,1,2018-02-13 13:45:31,champagne-mailly-grand-cru-intemporelle-2010,product,IT
+12585,12,2018-03-02 10:51:14,champagne-egly-ouriet-premier-cru-vrigny,product,US
+15303,0,2018-02-12 09:13:35,pierre-jean-villa-saint-joseph-saut-ange-2018,product,US
+14527,0,2018-02-27 13:45:13,i-fabbri-chianti-classico-terra-di-lamole-2015,product,US
+15476,23,2018-04-13 13:27:19,marc-colin-et-fils-chassagne-montrachet-blanc-margot-2017,product,US
+11277,0,2019-03-19 11:22:01,margaux-bouquet-de-monbrison-2012,product,US
+16280,0,2018-05-17 12:42:03,marcel-richaud-cairanne-rouge-lebrescade-2017,product,US
+,,,,,US
+14599,0,2018-04-19 14:31:41,maurice-schoech-pinot-noir-piece-de-chene-2016,product,US
+15677,0,2018-09-01 15:30:19,argentine-alamos-catena-malbec-2017,product,US
+,,,,,US
+,,,,,US
+15856,0,2019-03-28 15:10:42,montbourgeau-cotes-du-jura-poulsard-2018,product,US
+15095,0,2018-09-06 11:04:31,chili-errazuriz-cabernet-sauvignon-2015,product,US
+15184,0,2019-03-13 15:05:54,camille-giroud-santenay-rge-1er-cru-clos-rousseau-2016,product,US
+11847,0,2018-04-17 10:15:23,thierry-germain-saumur-champigny-outre-terre-2014,product,US
+16046,0,2020-01-18 10:50:11,domaine-de-la-tour-du-bon-bandol-rouge-saint-ferreol-2005,product,US
+14819,0,2018-10-31 14:04:38,domaine-chambeyron-vdp-viognier-2016,product,US
+,,,,,US
+15786,4,2018-02-14 16:39:22,ollieux-romanis-corbieres-classique-2018,product,US
+14300,18,2018-04-19 13:19:00,clos-du-mont-olivet-vin-de-france-la-sabonite,product,US
+15747,3,2018-02-15 09:31:31,borie-la-vitarele-saint-chinian-les-schistes-2017,product,US
+16030,6,2018-02-12 11:06:11,mont-olivet-chateauneuf-pape-blanc-2019,product,US
+14756,4,2018-06-07 16:35:10,chateau-cordet-margaux-2013,product,US
+15871,2,2018-07-17 10:07:09,david-duband-vosne-romanee-2017,product,US
+13604,0,2018-04-12 16:31:16,cdme-beaune-1ercru-greves-3-journaux-2015,product,US
+16276,0,2018-05-17 12:02:25,cave-de-castelmaure-corbieres-rouge-grande-cuvee-2017,product,US
+15125,0,2019-02-15 18:02:05,domaine-clerget-chambolle-musigny-2014,product,US
+15660,1,2018-04-13 14:11:01,catherine-et-claude-marechal-pommard-la-chaniere-2016,product,US
+16328,0,2018-09-13 16:43:39,parce-freres-banyuls-rimage-2018,product,US
+14773,0,2019-04-04 17:01:54,wemyss-malts-single-cask-scotch-whisky-chai-caramel-latte-2002,product,US
+14573,0,2019-06-28 17:33:35,moulin-de-gassac-igp-pays-dherault-mazet-levant-2017,product,US
+,,,,,US
+15745,0,2019-10-05 10:57:58,borie-la-vitarele-saint-chinian-midi-rouge-2015,product,US
+15966,3,2018-02-12 13:08:24,oratoire-reserve-seigneurs-rouge-2017,product,US
+13982,0,2018-11-26 15:19:55,lucien-boillot-puligny-montrachet-1er-cru-les-perrieres-2016,product,US
+14647,0,2019-01-29 17:48:30,domaine-hauvette-igp-alpilles-dolia-2012,product,US
+15949,1,2018-02-28 16:37:33,domaine-de-lidylle-savoie-roussette-2018,product,US
+15022,0,2018-02-12 13:14:22,oratoire-saint-martin-cairanne-douyes-2016,product,US
+3383,0,2018-09-01 15:53:58,nouvelle-zelande-marlborough-kim-crawford-sauvignon-blanc-2015,product,US
+14469,0,2018-09-13 16:51:09,parce-freres-cotes-du-roussillon-villages-hommage-a-fernand-2017__trashed,product,US
+15734,0,2018-04-19 13:46:52,maurice-schoech-riesling-vendanges-tardives-2017,product,US
+12589,11,2018-03-02 10:46:10,champagne-egly-ouriet-grand-cru-brut-blanc-de-noirs,product,US
+16190,1,2018-02-15 10:04:42,le-pas-de-lescalette-larzac-clapas-rouge-2018,product,US
+16289,22,2018-05-04 13:40:16,tempier-bandol-rose-2019,product,US
+14600,0,2019-03-26 17:46:40,maison-trimbach-riesling-geisberg-2012,product,US
+15746,0,2018-02-15 09:39:10,borie-la-vitarele-saint-chinian-les-cres-2016,product,US
+13662,3,2019-04-18 11:46:21,domaine-de-lancienne-cure-pecharmant-abbaye-2015,product,US
+16416,62,2018-02-12 13:42:28,gilles-robin-crozes-hermitage-papillon-2019,product,US
+16131,3,2018-10-09 15:11:51,decelle-villa-savigny-blanc-2018,product,US
+,,,,,US
+15810,0,2019-11-02 14:01:31,le-pas-de-lescalette-igp-pays-dherault-les-clapas-blanc-2018,product,US
+15026,19,2019-02-05 10:14:58,domaine-de-lhortus-herault-loup-bergerie-2018,product,US
+16023,5,2018-02-15 15:35:09,montrose-cotes-de-thongue-2018,product,US
+19820,0,2018-11-26 10:54:29,tempier-bandol-migoua-2017,product,US
+15688,0,2019-03-19 10:51:29,chateau-saransot-dupre-listrac-medoc-2016,product,US
+16513,15,2018-04-17 22:20:31,domaine-schoenheitz-riesling-herrenreben-2018,product,US
+11641,30,2018-02-13 13:08:44,champagne-gosset-grand-millesime-2006,product,US
+38,38,2018-04-18 12:25:58,emile-boeckel-cremant-brut-blanc-de-blancs,product,US
+14451,3,2018-04-17 16:39:44,chateau-plaisance-fronton-to-co-que-cal-2015,product,US
+,,,,,US
+,,,,,US
+9937,4,2018-05-17 12:55:13,marcel-richaud-cairanne-rouge-les-estrambords-2011,product,US
+14141,1,2018-09-06 10:21:59,australie-maverick-trial-hill-riesling-2010,product,US
+15140,12,2018-02-13 13:50:16,elian-daros-abouriou-2016,product,US
+16149,33,2018-05-03 13:45:43,triennes-igp-mediterranee-rose-2019,product,US
+12203,0,2018-02-20 15:19:23,domaine-huet-vouvray-haut-lieu-demi-sec-2015,product,UK
+13853,1,2018-03-02 11:11:48,champagne-larmandier-bernier-grand-cru-vieilles-chemins-avize-2011,product,UK
+11225,0,2018-06-06 16:47:38,champagne-larmandier-bernier-terre-de-vertus-premier-cru-2011,product,UK
+11669,0,2019-04-18 17:00:13,zind-humbrecht-gewurztraminer-windsbuhl-2012,product,UK
+13453,20,2018-02-14 15:24:37,pares-balta-penedes-mas-petit-2015,product,UK
+13754,0,2018-04-19 13:45:11,maurice-schoech-pinot-gris-vendanges-tardives-2015,product,UK
+19822,0,2018-11-26 10:59:10,tempier-bandol-cabassaou-2017,product,UK
+13905,1,2018-02-16 16:16:16,maroc-graillot-thaleb-tandem-syrah-2015,product,UK
+15779,0,2020-01-03 16:37:27,decelle-villa-cote-de-nuits-aux-montagnes-2014,product,UK
+6616,0,2018-02-20 15:10:17,domaine-huet-vouvray-le-clos-du-bourg-moelleux-1ere-trie-2008,product,UK
+15577,0,2019-04-18 10:29:19,labranche-laffont-madiran-tradition-2016,product,UK
+15341,6,2018-02-13 11:54:31,zind-humbrecht-vdf-zind-2017,product,UK
+15612,6,2018-05-15 11:37:35,jean-baptiste-arena-patrimonio-rouge-grotte-di-sole-2018,product,UK
+11997,0,2018-07-18 11:45:12,champagne-agrapart-fils-terroirs-brut-blanc-de-blancs-grand-cru,product,UK
+15149,1,2018-04-13 14:19:27,catherine-et-claude-marechal-volnay-2017,product,UK
+15227,0,2019-04-04 15:36:52,whisky-kingsbarns-lowland-single-malt,product,UK
+15659,7,2018-04-13 13:54:21,catherine-et-claude-marechal-chorey-les-beaune-2017,product,UK
+16133,1,2019-05-16 15:01:36,borie-la-vitarele-pays-herault-cigales-2019,product,UK
+16045,6,2018-02-12 10:58:41,pierre-gaillard-syrah-terre-mandrin-2018,product,UK
+14983,3,2019-03-28 10:21:36,coteaux-champenois-egly-ouriet-ambonnay-rouge-2016,product,UK
+16180,18,2018-02-12 15:36:40,rimauresq-cotes-de-provence-cru-classe-rose-2019,product,UK
+16560,9,2018-02-15 09:12:13,borie-vitarele-saint-chinian-terres-blanches-2019,product,UK
+15342,1,2019-04-25 09:34:44,zind-humbrecht-muscat-turckheim-2016,product,UK
+15764,0,2020-01-04 14:12:18,domaine-de-la-monardiere-vacqueyras-galejade-2018,product,UK
+15862,1,2018-10-31 13:55:02,domaine-chambeyron-cote-rotie-lancement-2017,product,UK
+16323,1,2019-04-06 10:36:51,borie-la-vitarele-languedoc-blanc-grand-mayol-2019,product,UK
+16580,41,2019-07-24 09:31:48,domaine-giudicelli-patrimonio-blanc-2019,product,UK
+15307,29,2018-05-03 12:49:00,philippe-nusswitz-duche-uzes-orenia-rouge-2017,product,UK
+15146,0,2018-04-13 14:26:33,francois-bergeret-hautes-cotes-de-beaune-rondo-2017,product,UK
+15704,0,2020-01-03 16:46:47,decelle-villa-saint-aubin-dumay-2015,product,UK
+14729,0,2018-11-26 11:24:02,domaine-huet-vouvray-le-clos-du-bourg-demi-sec-2017,product,UK
+,,,,,UK
+805,4,2018-04-14 11:45:24,marcel-windholtz-eau-de-vie-de-poire-williams-reserve-particuliere,product,UK
+14923,2,2019-06-28 17:22:27,champagne-gosset-celebris-vintage-2007,product,UK
+15134,0,2019-05-07 17:25:10,christophe-pichon-saint-condrieu-2017,product,UK
+15324,6,2019-07-26 10:44:28,planeta-sicilia-chardonnay-2017,product,UK
+,,,,,UK
+14980,3,2018-02-12 10:03:05,pierre-gaillard-cote-rotie-esprit-blond-2017,product,UK
+16255,4,2018-05-03 12:58:34,chateau-ollieux-romanis-corbieres-rose-classique-2019,product,UK
+13520,0,2018-11-26 10:21:02,thierry-germain-saumur-blanc-clos-romans-2016,product,UK
+14751,0,2018-02-13 14:39:39,planeta-sicilia-alastro-2017,product,UK
+15564,0,2018-02-13 09:42:25,paul-ginglinger-pinot-gris-gc-eichberg-2015,product,FR
+3507,2,2018-03-22 11:32:55,cognac-frapin-fontpinot-xo,product,FR
+16119,1,2018-04-17 21:44:24,albert-mann-riesling-grand-cru-schlossberg-2018,product,FR
+15161,0,2019-07-30 14:59:19,le-pas-de-lescalette-terrasses-du-larzac-pas-de-d-2017,product,FR
+13627,2,2018-04-18 21:37:27,domaine-de-montgilet-anjou-rouge-2016,product,FR
+14626,0,2018-09-06 11:10:49,chili-de-martino-gallardia-cinsault-2017,product,FR
+,,,,,FR
+14736,1,2019-01-31 11:58:26,gilles-robin-crozes-hermitage-rouge-1920-2016-copie,product,FR
+,,,,,FR
+15923,0,2019-01-15 16:06:19,albert-boxler-pinot-gris-sommerberg-w-2016,product,FR
+16003,1,2019-02-15 17:47:54,triennes-igp-mediterranee-rouge-merlot-2016,product,FR
+,,,,,FR
+15881,0,2018-04-19 13:52:18,maurice-schoech-gewurztraminer-2018,product,FR
+13965,0,2018-11-26 10:13:45,thierry-germain-saumur-champigny-outre-terre-2017,product,FR
+15656,0,2018-02-15 14:09:02,mas-de-daumas-gassac-igp-saint-guilhem-le-desert-2018,product,FR
+16462,7,2018-02-12 15:28:10,rimauresq-cotes-de-provence-cru-classe-2017,product,FR
+,,,,,FR
+,,,,,FR
+15879,3,2018-04-18 11:36:38,francois-baur-pinot-noir-sang-du-dragon-2017,product,FR
+8193,3,2020-03-04 13:54:12,emile-boeckel-cremant-chardonnay-extra-brut-2016,product,FR
+16275,7,2018-02-12 12:12:28,mourgues-du-gres-costieres-de-nimes-galets-roses-2019,product,FR
+15792,0,2020-01-23 11:46:11,weingut-besson-strasser-zurich-blauer-zweigelt-2016,product,FR
+16044,7,2018-02-12 10:34:08,pierre-gaillard-saint-joseph-cuminaille-2018,product,FR
+16567,0,2018-02-20 09:23:00,augustin-collioure-blanc-adeodat-2019,product,FR
+14981,0,2018-05-11 13:57:21,saumaize-michelin-macon-vergisson-sur-la-roche-2017,product,FR
+16041,14,2018-02-12 10:09:03,pierre-gaillard-cote-rotie-2018,product,FR
+13659,0,2018-04-17 17:12:30,domaine-plageoles-vin-de-france-contre-pied-2016,product,FR
+15240,0,2019-03-26 18:00:36,maison-trimbach-riesling-cuvee-frederic-emile-2012,product,FR
+16504,5,2018-02-13 10:31:33,emile-boeckel-sylvaner-vieilles-vignes-2019,product,FR
+,,,,,FR
+14680,6,2018-04-18 22:06:42,domaine-saint-nicolas-fiefs-vendeens-blanc-le-haut-des-clous-2017,product,FR
+15758,12,2018-02-16 10:54:27,frissant-chenin-pierres-2018,product,FR
+12339,4,2019-03-28 14:23:41,stephane-tissot-arbois-bruyeres-2015,product,FR
+,,,,,FR
+15705,3,2020-01-03 16:39:53,decelle-villa-chorey-beaune-2016,product,FR
+15953,19,2018-02-12 14:08:13,vaudieu-chateauneuf-2015,product,FR
+13762,0,2018-04-17 15:49:37,domaine-rotier-gaillac-blanc-sec-renaissance-2015,product,FR
+15945,1,2019-01-15 15:05:12,domaine-weinbach-riesling-schlossberg-catherine-2018,product,FR
+15351,2,2019-04-06 10:14:45,albert-mann-riesling-grand-cru-furstentum,product,FR
+15116,5,2019-02-15 14:02:14,triennes-igp-mediterranee-sainte-fleur-2018,product,FR
+15375,0,2018-02-13 15:09:20,planeta-sicilia-plumbago-2017,product,FR
+16292,11,2018-05-03 12:46:23,philippe-nusswitz-duche-uzes-orenia-rose-2019,product,FR
+,,,,,FR
+15229,0,2018-06-07 17:23:29,chateau-la-tour-laspic-pauillac-2014,product,FR
+13052,0,2018-05-15 10:05:23,domaine-des-croix-savigny-les-beaune-1er-cru-les-peuillets-2015,product,FR
+15667,1,2018-04-17 21:53:24,domaine-schoenheitz-cremant-dalsace-memoire-granit-extra-brut,product,FR
+16031,6,2020-01-18 10:30:35,clos-du-mont-olivet-igp-gard-rive-droite-2018,product,US
+15801,0,2018-04-13 15:10:06,francois-bergeret-hautes-cotes-de-beaune-blanc-2018,product,US
+16056,7,2018-04-17 15:32:02,pelle-sancerre-blanc-la-croix-au-garde-2018,product,US
+12494,0,2018-09-06 10:34:05,australie-harkham-wines-old-vines-2011,product,US
+12496,0,2018-09-06 11:17:24,chili-de-martino-viejas-tinajas-cinsault-2013,product,US
+16132,0,2018-04-18 21:55:53,domaine-de-montgilet-vin-de-france-grolleau-2019,product,US
+15654,0,2019-09-10 11:38:09,borie-de-maurel-minervois-blanc-belle-aude-2018,product,US
+16192,0,2018-11-26 11:01:40,le-pas-de-lescalette-terrasses-du-larzac-le-grand-pas-2018,product,US
+,,,,,US
+15811,3,2018-04-19 15:17:59,domaine-de-la-monardiere-vacqueyras-les-deux-monardes-2017,product,US
+15440,0,2018-02-12 14:46:08,bosquets-gigondas-2016,product,US
+15710,0,2019-10-05 10:46:15,lucien-boillot-gevrey-chambertin-1er-cru-les-cherbaudes-2017,product,US
+14696,0,2018-07-17 14:49:39,chateau-tour-des-gendres-bergerac-blanc-moulin-des-dames-2016,product,US
+15740,0,2020-04-25 12:32:17,jean-faure-saint-emilion-grand-cru-2015,product,US
+1360,0,2018-02-13 13:26:34,champagne-mailly-gc-brut-reserve,product,US
+,,,,,US
+15770,5,2018-02-20 10:16:13,preceptorie-cotes-du-roussillon-coume-marie-2018,product,US
+15349,32,2018-04-17 21:17:02,albert-mann-muscat-2018,product,US
+15863,2,2018-10-31 13:45:06,domaine-chambeyron-cote-rotie-chavarine-2017,product,US
+,,,,,US
+15432,5,2019-04-17 09:26:12,domaine-de-vaccelli-ajaccio-rouge-granit-2016,product,US
+,,,,,US
+15678,0,2019-11-02 13:01:42,tempier-bandol-blanc-2018,product,US
+14827,7,2018-11-26 09:56:52,marc-colin-et-fils-chassagne-montrachet-blanc-les-caillerets-1er-cru-2016,product,US
+16283,4,2018-05-17 13:31:40,domaine-rouge-garance-cotes-du-rhone-feuille-de-garance-2019,product,US
+15296,0,2018-02-08 13:49:41,pierre-jean-villa-saint-joseph-tilde-2017,product,US
+15399,0,2019-03-19 11:29:23,peymartin-saint-julien-2014,product,US
+,,,,,US
+16273,5,2019-09-10 11:27:33,borie-de-maurel-minervois-esprit-automne-2019,product,US
+13599,1,2018-03-01 14:12:39,champagne-mailly-grand-cru-blanc-de-pinot-noir,product,US
+12881,2,2019-03-28 15:25:14,montbourgeau-etoile-vin-jaune-2009,product,US
+15566,11,2019-02-15 14:16:03,triennes-igp-mediterranee-rouge-saint-auguste-2016,product,US
+15465,7,2018-04-17 21:03:25,albert-mann-cremant-dalsace-extra-brut-2017,product,US
+13514,0,2018-04-17 10:05:42,thierry-germain-saumur-champigny-la-marginale-2016__trashed,product,US
+15807,36,2018-05-11 14:59:33,jacqueson-rully-blanc-1er-cru-la-pucelle-2018,product,US
+16124,6,2018-02-14 15:43:42,ollieux-romanis-corbieres-boutenac-atal-sia-2017,product,US
+15575,6,2018-04-17 16:29:35,chateau-plaisance-fronton-2017,product,US
+7032,0,2019-07-26 10:27:08,planeta-sicilia-passito-di-noto-2016,product,US
+13078,0,2018-02-12 14:55:54,vieux-donjon-chateauneuf-2013,product,US
+14569,3,2019-06-28 17:56:00,moulin-de-gassac-igp-pays-dherault-faune-2017,product,US
+16068,1,2020-02-22 14:28:32,domaine-hauvette-igp-alpilles-jaspe-2017,product,US
+16138,1,2018-04-18 20:43:01,camin-larredya-jurancon-moelleux-costat-darrer-2018,product,US
+14699,8,2018-04-17 21:12:38,albert-mann-gewurztraminer-grand-cru-steingrubler-2016,product,US
+16269,2,2018-02-16 15:52:37,catena-zapata-mendoza-alamos-chardonnay-2019,product,US
+15353,2,2018-02-13 10:56:04,zind-humbrecht-riesling-herrenweg-turckheim-2017,product,US
+15162,4,2019-07-30 14:53:47,le-pas-de-lescalette-herault-ze-cinsault-2017,product,US
+14712,0,2018-10-09 16:01:48,decelle-villa-beaune-rouge-2015,product,US
+15763,1,2020-01-25 14:08:16,domaine-de-la-monardiere-vacqueyras-les-vieilles-vignes-2016,product,US
+13416,0,2018-02-13 10:04:03,boeckel-gewurzt-gc-zotzenberg-2016,product,US
+15461,1,2018-02-16 15:39:34,catena-zapata-mendoza-alamos-malbec-2018,product,US
+41,0,2018-04-14 12:01:43,marcel-windholtz-eau-de-marc-de-gewurztraminer,product,US
+,,,,,US
+14374,0,2018-05-15 10:40:56,alphonse-mellot-coteaux-charitois-rouge-les-penitents-2015,product,US
+15180,1,2019-03-13 15:08:45,camille-giroud-santenay-rouge-2016,product,US
+16011,0,2018-09-01 15:50:44,nouvelle-zelande-marlborough-momo-pinot-noir-2016,product,US
+1662,87,2018-02-13 13:17:25,champagne-gosset-grand-rose,product,US
+14845,2,2019-01-15 16:12:13,albert-boxler-pinot-noir-s-2016,product,US
+14657,3,2018-04-17 11:22:03,xavier-frissant-touraine-amboise-loree-des-frenes-2015,product,US
+16247,0,2019-09-10 11:33:37,borie-de-maurel-minervois-rouge-maxime-2003,product,US
+15940,5,2018-03-02 10:30:04,champagne-egly-ouriet-grand-cru-millesime-2008,product,US
+15576,0,2018-04-18 20:37:25,camin-larredya-jurancon-sec-la-part-davant-2018,product,US
+16281,0,2018-05-17 12:59:29,marcel-richaud-cairanne-rouge-2018,product,US
+16069,0,2018-02-12 14:34:12,plateau-chenes-lirac-2015,product,US
+15785,3,2018-02-14 16:02:48,ollieux-romanis-corbieres-cuvee-prestige-2017,product,US
+15784,12,2018-02-14 16:09:44,ollieux-romanis-corbieres-cuvee-prestige-blanc-2018,product,US
+16211,13,2018-02-14 17:10:39,maurel-pays-doc-chenin-colombard-2019,product,US
+16038,6,2018-05-11 14:55:23,saumaize-michelin-saint-veran-2018,product,US
+15857,0,2019-03-28 16:26:27,domaine-de-montbourgeau-letoile-vin-jaune-2016,product,US
+,,,,,US
+14977,0,2018-02-12 10:28:30,pierre-gaillard-gendrines-2018,product,US
+,,,,,IT
+15120,0,2018-02-28 15:45:13,idylle-savoie-cruet-2018,product,IT
+13460,0,2018-02-27 13:17:25,domaine-serol-cote-roannaise-perdriziere-2016,product,IT
+15345,0,2018-07-31 11:52:58,albert-mann-pinot-noir-grand-p-2017,product,IT
+14090,7,2019-06-08 09:47:41,stephane-tissot-cotes-du-jura-sursis-2017,product,IT
+16155,5,2018-05-17 12:35:04,domaine-la-croix-belle-cotes-de-thongue-blanc-n7-2018,product,IT
+15033,12,2018-02-20 11:24:01,domaine-saint-denis-macon-chardonnay-2017,product,IT
+15106,11,2018-05-17 13:25:19,domaine-rouge-garance-cotes-du-rhone-blanc-de-garance-2018,product,IT
+15787,6,2018-02-13 10:36:10,emile-boeckel-pinot-noir-barriques-2018,product,IT
+15715,0,2018-07-31 11:18:26,lucien-boillot-pommard-1er-cru-les-croix-noires-2017,product,FR
+10814,0,2018-04-17 10:12:40,thierry-germain-saumur-champigny-outre-terre-2013,product,FR
+15343,17,2019-04-06 09:59:39,albert-mann-pinot-noir-clos-de-la-faille-2017,product,FR
+15456,0,2018-05-17 12:20:36,domaine-la-croix-belle-cotes-de-thongue-blanc-champ-des-lys-2018,product,FR
+15759,4,2018-02-16 11:14:54,xavier-frissant-touraine-amboise-m-de-la-touche-2016,product,FR
+16472,0,2019-04-17 09:39:01,domaine-de-vaccelli-aop-ajaccio-rouge-granit-174-2017,product,FR
+15664,0,2018-02-27 10:27:32,chermette-domaine-du-vissoux-fleurie-poncie-2018,product,FR
+16037,0,2018-05-11 14:52:59,saumaize-michelin-pouilly-fuisse-vignes-blanches-2018,product,FR
+16277,12,2018-05-17 12:05:44,cave-de-castelmaure-corbieres-rouge-n3-2017,product,FR
+15316,2,2018-04-19 13:59:04,maurice-schoech-pinot-noir-2018,product,FR
+14676,0,2018-04-17 15:25:56,pelle-menetou-salon-rouge-morogues-2017,product,FR
+2361,1,2018-04-14 12:20:54,marcel-windholtz-eau-de-vie-de-framboise-dalsace,product,FR
+15457,0,2018-04-12 10:14:12,domaine-de-montcalmes-ct-languedoc-blanc-2017,product,FR
+13516,0,2018-04-17 10:09:55,thierry-germain-saumur-champigny-les-memoires-2016,product,FR
+16307,1,2018-02-27 11:02:05,domaine-bulliat-morgon-colombier-2019,product,FR
+15808,3,2018-05-11 15:10:59,jacqueson-rully-rouge-1er-cru-les-cloux-2018,product,FR
+15776,0,2018-05-11 14:41:39,saumaize-michelin-pouilly-fuisse-les-ronchevats-2018,product,FR
+16097,1,2018-02-20 10:32:11,parce-freres-igp-pays-oc-zoe-viognier-2019,product,FR
+,,,,,FR
+16498,9,2018-02-12 12:41:06,mourgues-du-gres-costieres-de-nimes-argence-rouge-2017,product,FR
+16065,1,2018-02-28 13:40:34,domaine-hauvette-cornaline-2014,product,FR
+15531,6,2018-05-17 11:15:27,alain-graillot-crozes-hermitage-rouge-2017,product,FR
+15941,4,2018-02-12 14:26:52,jerome-cotes-du-rhone-2018,product,FR
+10459,0,2018-04-13 15:58:19,alphonse-mellot-sancerre-rouge-generation-xix-2011,product,FR
+16320,3,2018-02-12 12:49:29,mourgues-du-gres-costieres-de-nimes-terre-dargence-blanc-2018,product,FR
+15663,3,2018-02-27 10:27:01,chermette-domaine-du-vissoux-brouilly-pierreux-2018,product,FR
+15910,0,2019-03-28 10:59:43,thevenet-quintaine-vire-clesse-la-bongran-2015,product,FR
